@@ -1,0 +1,38 @@
+Salesman Management System
+Group Number : G4
+Group Member :
+Chirag Soni
+Prajwal Falake
+Pratiksha Tapkir
+Yash Khadole
+Pankaj Birla
+
+Problem Statement :
+"Inefficient management and tracking of sales activities hinder the growth and productivity of businesses. 
+The current lack of a centralized system results in difficulties in monitoring sales performance, managing leads, and coordinating sales activities effectively. To address these challenges, a robust Salesman Management System is required to improve efficiency, maximize sales potential, and provide actionable insights for informed decision-making within the organization."
+
+ Functionality of Owner/admin
+1. add salesman - name,region,mobile number,address,task
+2. Add Customer in particular region
+
+Functionality of salesman
+1. View daily task
+2. update status of daily task-update details of all things done and not done 
+3. reason for not completing task
+4. View Customer of a region
+ 
+Flow of Project :
+Index.html ->  Admin Login -> Admin Dashboard -> Add Salesman / Add Customer 
+Salesman Login -> View Task -> update Details of task   
+ 
+Scope Of Project:
+ 
+User Authentication and Authorization
+Dashboard 
+Communication and Collaboration
+Scalability
+
+Database Structure
+ 
+Salesman Table , 
+Customer Table
